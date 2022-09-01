@@ -234,7 +234,7 @@ let data = {
   UKR: { fillKey: 1, name: 'Ukraine', code: '804', flag: 'flags/ukraine.svg' },
   ARE: { fillKey: 2, name: 'United Arab Emirates', code: '784', flag: 'flags/united_arab_emirates.svg' },
   GBR: { fillKey: 1, name: 'United Kingdom of Great Britain and Northern Ireland', code: '826', flag: 'flags/united_kingdom.svg' },
-  USA: { fillKey: 1, name: 'United States of America', code: '840', flag: 'flags/united_states.svg' },
+  USA: { fillKey: 2, name: 'United States of America', code: '840', flag: 'flags/united_states.svg' },
   UMI: { fillKey: 2, name: 'United States Minor Outlying Islands', code: '581', flag: 'flags/united_states.svg' },
   URY: { fillKey: 2, name: 'Uruguay', code: '858', flag: 'flags/uruguay.svg' },
   UZB: { fillKey: 2, name: 'Uzbekistan', code: '860', flag: 'flags/uzbekistan.svg' },
