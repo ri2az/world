@@ -142,7 +142,7 @@ let data = {
   MRT: { fillKey: 2, name: 'Mauritania', code: '478', flag: 'flags/mauritania.svg' },
   MUS: { fillKey: 1, name: 'Mauritius', code: '480', flag: 'flags/mauritius.svg' },
   MYT: { fillKey: 1, name: 'Mayotte', code: '175', flag: 'flags/mayotte.svg' },
-  MEX: { fillKey: 1, name: 'Mexico', code: '484', flag: 'flags/mexico.svg' },
+  MEX: { fillKey: 2, name: 'Mexico', code: '484', flag: 'flags/mexico.svg' },
   FSM: { fillKey: 2, name: 'Federated States of Micronesia', code: '583', flag: 'flags/federated_states_of_micronesia.svg' },
   MDA: { fillKey: 2, name: 'Republic of Moldova', code: '498', flag: 'flags/moldova.svg' },
   MCO: { fillKey: 1, name: 'Monaco', code: '492', flag: 'flags/monaco.svg' },
