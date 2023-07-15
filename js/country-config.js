@@ -214,7 +214,7 @@ let data = {
   SUR: { fillKey: 2, name: 'Suriname', code: '740', flag: 'flags/suriname.svg' },
   SJM: { fillKey: 2, name: 'Svalbard and Jan Mayen', code: '744', flag: 'flags/svalbard_and_jan_mayen.svg' },
   SWE: { fillKey: 1, name: 'Sweden', code: '752', flag: 'flags/sweden.svg' },
-  CHE: { fillKey: 2, name: 'Switzerland', code: '756', flag: 'flags/switzerland.svg' },
+  CHE: { fillKey: 1, name: 'Switzerland', code: '756', flag: 'flags/switzerland.svg' },
   SYR: { fillKey: 2, name: 'Syrian Arab Republic', code: '760', flag: 'flags/syria.svg' },
   TWN: { fillKey: 2, name: 'Taiwan, Province of China', code: '158', flag: 'flags/taiwan.svg' },
   TJK: { fillKey: 2, name: 'Tajikistan', code: '762', flag: 'flags/tajikistan.svg' },
